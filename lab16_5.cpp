@@ -17,5 +17,5 @@ int main(){
 	
 	return 0;
 }
-
+//JO
 //Write definition of shuffle() using pointer here 
